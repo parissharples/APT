@@ -1,0 +1,34 @@
+.font-class {
+    font-family: 'Inter', sans-serif !important;
+}
+.navbar{
+    background-color: black !important;
+}
+nav .active {
+    background-color: #CBB256 !important;
+    color: white !important;
+    font-family: 'Inter', sans-serif !important;
+}
+nav .not-act {
+    color:#CBB256 !important;
+    font-family: 'Inter', sans-serif !important;
+}
+nav .container {
+    height: 60px !important;
+}
+.main-bit {
+    background-color: black;
+    display: flex;
+}
+.box-1 {
+    flex-direction: row;
+    width: 10%;
+}
+.carousel {
+    width: 80%;
+    flex-direction: row;
+}
+.box-2 {
+    flex-direction: row;
+    width: 10%;
+}
